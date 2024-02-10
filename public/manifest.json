@@ -1,6 +1,6 @@
 {
-  "short_name": "WebAppの名前",
-  "name": "WebAppの正式名称",
+  "short_name": "QRAR",
+  "name": "第2回React+TypeScriptなWebアプリで、QRコードをARしてみた。(3Dキャラクタ表示編)",
   "icons": [
     {
       "src": "favicon.ico",
